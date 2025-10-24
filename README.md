@@ -1,5 +1,7 @@
 ***MapTile_Parser***
 
+Blog post - https://northloopconsulting.com/blog/f/forensic-analysis-of-apple-maps-tile-cache
+
 Usage
 
 **Generate Interactive Map Report**
