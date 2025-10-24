@@ -1,10 +1,10 @@
-MapTileParser
+***MapTileParser***
 
 Usage
 
 Generate Interactive Map Report-
 
-python3 MapTileParser.py /path/to/MapTiles.sqlitedb
+**python3 MapTileParser.py /path/to/MapTiles.sqlitedb**
 
 This creates map_tiles_report.html in your current directory with:
 
@@ -15,12 +15,14 @@ This creates map_tiles_report.html in your current directory with:
 -JPEGs or recovered tile images
 
 Specify Output Location-
-python3 MapTileParser.py /path/to/MapTiles.sqlitedb -o /output/report.html
+
+**python3 MapTileParser.py /path/to/MapTiles.sqlitedb -o /output/report.html**
 
 Export Detailed Text Files
 
 For manual review of raw tile data:
-python3 MapTileParser.py /path/to/MapTiles.sqlitedb --export-text ./text_output/
+
+**python3 MapTileParser.py /path/to/MapTiles.sqlitedb --export-text ./text_output/**
 
 This creates individual text files for each tile with:
 -Decoded coordinates and accuracy estimates
