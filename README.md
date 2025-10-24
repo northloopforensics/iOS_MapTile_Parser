@@ -1,4 +1,4 @@
-***MapTileParser***
+***Map_Tile_Parser***
 
 Usage
 
